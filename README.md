@@ -1,2 +1,4 @@
-# dadata_name_example
+# Это пример работы с сервисом dadata.ru по стандартизации ФИО на языке Ruby 
+
+Для работы необходим gem 'httparty'
  

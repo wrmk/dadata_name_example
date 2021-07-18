@@ -14,7 +14,8 @@ def gender(name)
     :body => query,
     :headers => headers 
   )
-
-  return sex = response[0]["gender"]
+  
+  # пример выбора пола из ответа
+  gender = response[0]["gender"]
 end 
   
